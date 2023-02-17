@@ -27,7 +27,7 @@ import service.ProduitService;
 
 /**
  *
- * @author MOHAMED
+ * @author Mohamed Laasri
  */
 @MultipartConfig(maxFileSize = 169999999)
 @WebServlet(name = "GestionProduit", urlPatterns = {"/GestionProduit"})

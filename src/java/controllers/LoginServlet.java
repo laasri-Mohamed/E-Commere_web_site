@@ -28,7 +28,7 @@ import service.UserService;
 
 /**
  *
- * @author MOHAMED
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "LoginServlet", urlPatterns = {"/LoginServlet"})
 public class LoginServlet extends HttpServlet {

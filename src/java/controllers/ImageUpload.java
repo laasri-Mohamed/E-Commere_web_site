@@ -26,7 +26,7 @@ import service.MarqueService;
 
 /**
  *
- * @author Mohamed Nabil
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "ImageUpload", urlPatterns = {"/ImageUpload"})
 public class ImageUpload extends HttpServlet {

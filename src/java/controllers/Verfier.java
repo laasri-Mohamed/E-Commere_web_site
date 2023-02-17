@@ -18,7 +18,7 @@ import service.ClientService;
 
 /**
  *
- * @author MOHAMED
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "Verfier", urlPatterns = {"/Verfier"})
 public class Verfier extends HttpServlet {

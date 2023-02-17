@@ -24,7 +24,7 @@ import service.ProduitService;
 
 /**
  *
- * @author Mohamed Nabil
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "FileUpload", urlPatterns = {"/FileUpload"})
 public class FileUpload extends HttpServlet {

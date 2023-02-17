@@ -16,7 +16,7 @@ import service.ProduitService;
 
 /**
  *
- * @author Mohamed Nabil
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "DeleteProduit", urlPatterns = {"/DeleteProduit"})
 public class DeleteProduit extends HttpServlet {

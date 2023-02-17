@@ -17,7 +17,7 @@ import service.CategorieService;
 
 /**
  *
- * @author Mohamed Nabil
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "GestionCategorie", urlPatterns = {"/GestionCategorie"})
 public class GestionCategorie extends HttpServlet {

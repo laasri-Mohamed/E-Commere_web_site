@@ -24,7 +24,7 @@ import service.ProduitService;
 
 /**
  *
- * @author Mohamed Nabil
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "AddProduit", urlPatterns = {"/AddProduit"})
 public class AddProduit extends HttpServlet {

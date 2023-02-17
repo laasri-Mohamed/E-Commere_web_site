@@ -16,7 +16,7 @@ import service.MarqueService;
 
 /**
  *
- * @author Mohamed Nabil
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "DeleteMarque", urlPatterns = {"/DeleteMarque"})
 public class DeleteMarque extends HttpServlet {

@@ -19,7 +19,7 @@ import service.sendMail;
 
 /**
  *
- * @author MOHAMED
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "Mdob", urlPatterns = {"/Mdob"})
 public class Mdob extends HttpServlet {

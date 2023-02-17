@@ -17,7 +17,7 @@ import service.MarqueService;
 
 /**
  *
- * @author Mohamed Nabil
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "GestionMarque", urlPatterns = {"/GestionMarque"})
 public class GestionMarque extends HttpServlet {

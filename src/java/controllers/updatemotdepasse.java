@@ -19,7 +19,7 @@ import service.PassService;
 
 /**
  *
- * @author MOHAMED
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "updatemotdepasse", urlPatterns = {"/updatemotdepasse"})
 public class updatemotdepasse extends HttpServlet {
