@@ -20,7 +20,7 @@ import service.ProduitService;
 
 /**
  *
- * @author Mohamed Nabil
+ * @author Mohamed Laasri
  */
 @WebServlet(name = "AddCart", urlPatterns = {"/cart"})
 public class AddCart extends HttpServlet {
