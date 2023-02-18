@@ -11,7 +11,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author Mohamed Laasri
+ * @author MOHAMED
  */
 @Entity
 @Table(name = "admin")
