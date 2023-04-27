@@ -14,7 +14,7 @@ import javax.persistence.Table;
  * @author Mohamed Laasri
  */
 @Entity
-@Table(name = "")
+@Table(name = "admin")
 @NamedNativeQuery(name = "findByEmailo", query = "select u from User u where u.email like :email")
 public class Admin extends User {
 
